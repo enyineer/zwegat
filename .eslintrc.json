@@ -1,0 +1,17 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "extends": [
+    "prettier",
+    "airbnb",
+    "airbnb-typescript"
+  ],
+  "plugins": ["@typescript-eslint"],
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "ignorePatterns": ["dist", ".yarn", "examples", "scripts"]
+}

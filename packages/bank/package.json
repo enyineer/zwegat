@@ -1,0 +1,10 @@
+{
+  "name": "@enyineer/zwegat-bank",
+  "packageManager": "yarn@3.3.1",
+  "license": "MIT",
+  "dependencies": {
+    "@trpc/server": "^10.9.0",
+    "express": "^4.18.2",
+    "zod": "^3.20.2"
+  }
+}

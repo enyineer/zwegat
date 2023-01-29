@@ -1,0 +1,18 @@
+{
+  "name": "@enyineer/zwegat-logger",
+  "version": "0.0.3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "publish": "yarn build && yarn npm publish --access=public",
+    "build": "tsc --build"
+  },
+  "dependencies": {
+    "pino": "^8.8.0",
+    "pino-http": "^8.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

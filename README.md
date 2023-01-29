@@ -2,8 +2,13 @@
 
 ZWEGAT is my learning project for financial data analysis and "Long short-term Memory predictions" based off historical stock data. It's named after the famous German debt counselor [Peter Zwegat](https://de.wikipedia.org/wiki/Peter_Zwegat).
 
+
+
 <p align="center">
   <img src="https://media.tenor.com/ng0mwYEEpNMAAAAd/hasbulla-money.gif" alt="Hasbulla counting money" width="200"/>
+</p>
+<p align="center">
+  Approved by Hasbulla™️
 </p>
 
 ## Important note 📝
